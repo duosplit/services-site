@@ -1,0 +1,27 @@
+page_title:
+  en: MP Software Solutions
+  fr: Solutions Logicielles MP
+base_path:
+  en: /
+  fr: /fr
+og_title:
+  en: MP Software Solutions
+  fr: Solutions Logicielles MP
+og_description:
+  en: Software engineering focussed service advisory.
+  fr: Service conseil spécialisé en ingénierie logicielle.
+og_url:
+  en: https://solutionslogiciellesmp.com/
+  fr: https://solutionslogiciellesmp/fr
+og_image_url:
+  en: https://solutionslogiciellesmp.com/solutions_logicielles_mp.png
+  fr: https://solutionslogiciellesmp.com/solutions_logicielles_mp.png
+privacy_policy:
+  en: Privacy policy
+  fr: Politique de vie privée
+privacy_policy_url:
+  en: privacy.html
+  fr: vie_privee.html
+privacy_policy_content:
+  en: todo
+  fr: todo

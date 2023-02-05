@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="zxx" class="no-js">
+
+	<head>
+		<meta property="og:image" content="{{
+			site.data.snippets.og_image_url[page.lang] }}" />
+		<meta property="og:image:secure_url" content="{{
+			site.data.snippets.og_image_url[page.lang] }}" />
+		<meta property="og:image:url" content="{{
+			site.data.snippets.og_image_url[page.lang] }}" />
+		<meta property="og:image:type" content="image/png" />
+		<meta property="og:image:width" content="764" />
+		<meta property="og:image:height" content="400" />
+		<meta property="og:url" content="{{ site.data.snippets.og_url[page.lang] }}"
+			/>
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content="{{ site.data.snippets.og_title[page.lang]
+			}}" />
+		<meta property="og:description" content="{{
+			site.data.snippets.og_description[page.lang] }}" />
+
+		<!--- pinterest -->
+		<meta name="p:domain_verify" content="d3de64002ca24d9da1e42ef113395227"/>
+		<!--- SEO -->
+		<title>{{ site.data.snippets.page_title[page.lang] }}</title>
+		<meta name="description" content="{{
+			site.data.snippets.og_description[page.lang] }}">
+		<meta name="keywords" content="budget,couple,simplicity,finance">
+		<meta name="viewport" content="width=device-width">
+
+		<!-- Mobile Specific Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1,
+			shrink-to-fit=no">
+		<!-- Favicon-->
+		<link rel="shortcut icon" href="favicon.ico">
+		<!-- Author Meta -->
+		<meta name="author" content="Mathieu Provencher">
+		<!-- meta character set -->
+		<meta charset="UTF-8">
+
+		<link href="{{ '/fonts/font-roboto-condensed.css' | absolute_url }}"
+			rel='stylesheet'> <!-- https://fonts.googleapis.com/css?family=Roboto Condensed -->
+		<link href="{{ '/fonts/font-barlow.css' | absolute_url }}" rel='stylesheet'>
+		<!-- https://fonts.googleapis.com/css?family=Barlow -->
+
+		<link
+			href="https://fonts.googleapis.com/css?family=Poppins:400,600|Roboto:400,400i,500"
+			rel="stylesheet">
+		<link
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css"
+			rel="stylesheet">
+
+		<!--
+			CSS
+			============================================= -->
+		<link rel="stylesheet" href="{{ '/css/linearicons.css' | absolute_url }}">
+		<link rel="stylesheet" href="{{ '/css/font-awesome.min.css' | absolute_url
+			}}">
+		<link rel="stylesheet" href="{{ '/css/bootstrap.css' | absolute_url }}">
+		<link rel="stylesheet" href="{{ '/css/magnific-popup.css' | absolute_url }}">
+		<link rel="stylesheet" href="{{ '/css/nice-select.css' | absolute_url }}">
+		<link rel="stylesheet" href="{{ '/css/hexagons.min.css' | absolute_url }}">
+		<link rel="stylesheet" href="{{ '/css/owl.carousel.css' | absolute_url }}">
+		<link rel="stylesheet" href="{{ '/css/main.css' | absolute_url }}">
+		<link rel="stylesheet" href="{{ '/css/ionicons.min.css' | absolute_url }}">
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async
+			src="https://www.googletagmanager.com/gtag/js?id=UA-140393171-1"></script>
+		<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-140393171-1');
+	</script>
+	</head>
+
+	<body>
+		<!-- start header Area -->
+		<header id="header">
+			<div class="container main-menu">
+				<div class="row align-items-center justify-content-between d-flex">
+					<div>
+						<div style="width: 150%; margin-left: -7px; cursor: pointer;" onclick="location.href='{{ site.data.snippets.base_path[page.lang] }}'">
+							<img id="logo" style="float: left;" height="64" width="64" src="{{
+								'/img/logo.svg' | absolute_url }}">
+							<p id="app-title" class="text vertical-center barlow" style="font-size:
+								36px; color: black;">{{
+								site.data.snippets.app_title[page.lang] | upcase
+								}}</p>
+							<p id="app-subtitle" class="text vertical-center barlow" style="color:
+								black;">{{ site.data.snippets.app_subtitle[page.lang] }}</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- end header Area -->
+
+		<!-- start banner Area -->
+		<section class="home-banner-area" style="margin-top: -104px;">
+			<div class="container">
+				<div class="row fullscreen d-flex align-items-center
+					justify-content-between">
+					<div class="home-banner-content col-lg-6 col-md-6">
+						<h1>
+							{{ site.data.snippets.privacy_policy[page.lang] }}
+						</h1>
+						<p style="text-align: justify; text-justify: inter-word;">
+							{{ site.data.snippets.privacy_policy_content[page.lang] }}
+						</p>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End banner Area -->
+
+
+
+		<!-- Start Footer Area -->
+		<footer class="footer-area section-gap">
+			<div class="container">
+				<div class="footer-bottom row align-items-center">
+					<p class="footer-text m-0 col-lg-6 col-md-12"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+						© 2022 Mathieu Provencher <br> This template is made by <a
+							href="https://colorlib.com" target="_blank">Colorlib</a></p>
+					<p class="footer-text m-0 col-lg-6 col-md-12" style="text-align: right;"><a
+							style="color: white;" href="{{
+							site.data.snippets.privacy_policy_url[page.lang] }}">{{
+							site.data.snippets.privacy_policy[page.lang] }}</a></p>
+				</div>
+			</div>
+		</footer>
+		<!-- End Footer Area -->
+
+		<script
+			src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
+		<script
+			src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+			integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+			crossorigin="anonymous"></script>
+
+
+		<script src="{{ '/js/vendor/jquery-2.2.4.min.js' | absolute_url }}"></script>
+		<script src="{{ '/js/tilt.jquery.min.js' | absolute_url }}"></script>
+		<script src="{{ '/js/vendor/bootstrap.min.js' | absolute_url }}"></script>
+		<script src="{{ '/js/easing.min.js' | absolute_url }}"></script>
+		<script src="{{ '/js/hoverIntent.js' | absolute_url }}"></script>
+		<script src="{{ '/js/superfish.min.js' | absolute_url }}"></script>
+		<script src="{{ '/js/jquery.ajaxchimp.min.js' | absolute_url }}"></script>
+		<script src="{{ '/js/jquery.magnific-popup.min.js' | absolute_url }}"></script>
+		<script src="{{ '/js/owl.carousel.min.js' | absolute_url }}"></script>
+		<script src="{{ '/js/owl-carousel-thumb.min.js' | absolute_url }}"></script>
+		<script src="{{ '/js/hexagons.min.js' | absolute_url }}"></script>
+		<script src="{{ '/js/jquery.nice-select.min.js' | absolute_url }}"></script>
+		<script src="{{ '/js/waypoints.min.js' | absolute_url }}"></script>
+		<script src="{{ '/js/mail-script.js' | absolute_url }}"></script>
+		<script src="{{ '/js/main.js' | absolute_url }}"></script>
+		<script src="{{ '/js/sharer.min.js' | absolute_url }}"></script>
+	</body>
+
+</html>

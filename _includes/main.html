@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zxx" class="no-js">
+
+<head>
+	<meta property="og:image" content="{{ site.data.snippets.og_image_url[page.lang] }}" />
+	<meta property="og:image:secure_url" content="{{ site.data.snippets.og_image_url[page.lang] }}" /> 
+	<meta property="og:image:url" content="{{ site.data.snippets.og_image_url[page.lang] }}" /> 
+	<meta property="og:image:type" content="image/png" /> 
+	<meta property="og:image:width" content="764" />
+	<meta property="og:image:height" content="400" />
+	<meta property="og:url" content="{{ site.data.snippets.og_url[page.lang] }}" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="{{ site.data.snippets.og_title[page.lang] }}" />
+	<meta property="og:description" content="{{ site.data.snippets.og_description[page.lang] }}" />
+
+	<!--- google -->
+	<meta name="thumbnail" content="{{ '/img/logo.svg' | absolute_url }}"/>
+
+	<!--- pinterest -->
+	<meta name="p:domain_verify" content="d3de64002ca24d9da1e42ef113395227"/>
+
+	<!--- SEO -->
+	<title>{{ site.data.snippets.page_title[page.lang] }}</title>
+	<meta name="description" content="{{ site.data.snippets.og_description[page.lang] }}">
+	<meta name="keywords" content="budget,couple,simplicity,finance">
+	<meta name="viewport" content="width=device-width">
+
+	<!-- Mobile Specific Meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<!-- Favicon-->
+	<link rel="shortcut icon" href="favicon.ico">
+	<!-- Author Meta -->
+	<meta name="author" content="Mathieu Provencher">
+	<!-- meta character set -->
+	<meta charset="UTF-8">
+
+	<link href="{{ '/fonts/font-roboto-condensed.css' | absolute_url }}" rel='stylesheet'> <!-- https://fonts.googleapis.com/css?family=Roboto Condensed -->
+	<link href="{{ '/fonts/font-barlow.css' | absolute_url }}" rel='stylesheet'> <!-- https://fonts.googleapis.com/css?family=Barlow -->
+
+	<link href="https://fonts.googleapis.com/css?family=Poppins:400,600|Roboto:400,400i,500" rel="stylesheet">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" rel="stylesheet">
+
+	<link rel="stylesheet" href="{{ '/css/bootstrap.css' | absolute_url }}">
+
+
+	</script>
+</head>
+
+<body>
+	<header id="header">
+
+	</header>
+
+
+	<p>{{ site.data.snippets.page_title[page.lang] }}</p>
+
+	<script src="{{ '/js/vendor/jquery-2.2.4.min.js' | absolute_url }}"></script>
+	<script src="{{ '/js/vendor/bootstrap.min.js' | absolute_url }}"></script>
+</body>
+
+{% if page.lang == "en" %}
+<script>
+  	window.lang = "en";
+</script>
+{% elsif page.lang == "fr" %}
+<script>
+	window.lang = "fr";
+</script>
+{% endif %}
+
+</html>
+
+
