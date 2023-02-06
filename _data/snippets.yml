@@ -35,19 +35,19 @@ title_iac:
   en: Infrastructure as Code (IaC)
   fr:
 title_sdlc:
-  en: SDLC
-  fr: SDLC
+  en: SDLC Definition
+  fr: 
 title_cicd:
-  en: CI/CD
+  en: CI/CD Pipelines
   fr:
 title_containers_orchestration:
   en: Containers & Orchestration
   fr:
 title_cloud:
-  en: Cloud
+  en: Cloud Computing
   fr:
 title_devops:
-  en: DevOps
+  en: DevOps Automations
   fr:
 description_iac:
   en: Infrastructure as Code (IaC)
@@ -71,11 +71,15 @@ description_devops:
 
 
 service_development:
-  en: Solution Development
+  en: Software Solution Development
   fr:
 service_personalized_support:
-  en: Personalized Support
+  en: Support & Advisory
   fr:
 title_training:
-  en: Training
+  en: Specialized Training
   fr:
+
+email_contact:
+  en: contact@solutionslogiciellesmp.com
+  fr: contact@solutionslogiciellesmp.com
