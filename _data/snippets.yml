@@ -25,3 +25,51 @@ privacy_policy_url:
 privacy_policy_content:
   en: todo
   fr: todo
+title_iac:
+  en: Infrastructure as Code (IaC)
+  fr:
+title_sdlc:
+  en: SDLC
+  fr: SDLC
+title_cicd:
+  en: CI/CD
+  fr:
+title_containers_orchestration:
+  en: Containers & Orchestration
+  fr:
+title_cloud:
+  en: Cloud
+  fr:
+title_devops:
+  en: DevOps
+  fr:
+description_iac:
+  en: Infrastructure as Code (IaC)
+  fr:
+description_sdlc:
+  en: SDLC
+  fr: SDLC
+description_cicd:
+  en: CI/CD
+  fr:
+description_containers_orchestration:
+  en: Containers & Orchestration
+  fr:
+description_cloud:
+  en: Cloud
+  fr:
+description_devops:
+  en: DevOps
+  fr:
+
+
+
+service_development:
+  en: Solution Development
+  fr:
+service_personalized_support:
+  en: Personalized Support
+  fr:
+title_training:
+  en: Training
+  fr:
