@@ -1,6 +1,12 @@
 page_title:
   en: MP Software Solutions Inc.
   fr: Solutions Logicielles MP Inc.
+welcome:
+  en: Welcome to MP Software Solutions Inc.
+  fr: Bienvenue à MP Solutions Logicielles MP Inc.
+welcome_description:
+  en: MP Software Solutions Inc. offers cutting edge solutions in terms of software deployments and SDLC enhancements.
+  fr: 
 base_path:
   en: /
   fr: /fr
@@ -8,8 +14,8 @@ og_title:
   en: MP Software Solutions Inc.
   fr: Solutions Logicielles MP Inc.
 og_description:
-  en: Software engineering focussed service advisory.
-  fr: Service conseil spécialisé en ingénierie logicielle.
+  en: Software engineering focussed <span>services</span>.
+  fr: <span>Services</span> spécialisés en ingénierie logicielle.
 og_url:
   en: https://solutionslogiciellesmp.com/
   fr: https://solutionslogiciellesmp/fr
