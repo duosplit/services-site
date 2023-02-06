@@ -1,1 +1,3 @@
 name: Solutions Logicielles MP
+sass:
+    sass_dir: _sass
