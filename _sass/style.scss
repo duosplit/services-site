@@ -7,7 +7,7 @@ $white: #fff;
 $black: #000000;
 $darken: #232931;
 
-$primary: #31de79;
+$primary: #1a6614;
 $secondary: #a0f669;
 
 
@@ -28,14 +28,14 @@ $secondary: #a0f669;
 }
 
 @mixin gradient-background(){
-	background: #e4fde1;
-	background: -moz-linear-gradient(-45deg, #e4fde1 0%, #1a6614 100%);
-	background: -webkit-gradient(left top, right bottom, color-stop(0%, #e4fde1), color-stop(100%, #1a6614));
-	background: -webkit-linear-gradient(-45deg, #e4fde1 0%, #1a6614 100%);
-	background: -o-linear-gradient(-45deg, #e4fde1 0%, #1a6614 100%);
-	background: -ms-linear-gradient(-45deg, #e4fde1 0%, #1a6614 100%);
-	background: linear-gradient(135deg, #e4fde1 0%, #1a6614 100%);
-	// filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e4fde1', endColorstr='#1a6614', GradientType=1 );
+	background: #111118;
+	background: -moz-linear-gradient(-45deg, #111118 0%, #1a6614 100%);
+	background: -webkit-gradient(left top, right bottom, color-stop(0%, #111118), color-stop(100%, #1a6614));
+	background: -webkit-linear-gradient(-45deg, #111118 0%, #1a6614 100%);
+	background: -o-linear-gradient(-45deg, #111118 0%, #1a6614 100%);
+	background: -ms-linear-gradient(-45deg, #111118 0%, #1a6614 100%);
+	background: linear-gradient(135deg, #111118 0%, #1a6614 100%);
+	// filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#111118', endColorstr='#1a6614', GradientType=1 );
 }
 
 html {
