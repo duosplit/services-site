@@ -1145,9 +1145,7 @@ h1, h2, h3, h4, h5,
 	background: rgba(255,255,255,.9);
 	margin-bottom: 1px;
 	padding: 30px 40px 30px 50px;
-	&:first-child{
-		margin-top: 1px;
-	}
+	margin: 10px;
 	&:after{
 		position: absolute;
 		top: 0;
