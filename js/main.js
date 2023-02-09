@@ -85,6 +85,8 @@
 
 	var carousel = function() {
 		$('.home-slider').owlCarousel({
+		mouseDrag: false,
+		touchDrag: false,
 	    loop:true,
 	    autoplay: true,
 	    margin:0,
