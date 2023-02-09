@@ -1908,7 +1908,7 @@ textarea.form-control {
 
 
 
-.contact-section {
+.contact-section, .work-section {
 	.contact-info{
 		p{
 			a{
@@ -1950,7 +1950,7 @@ textarea.form-control {
 			color: $white;
 		}
 	}
-	.contact-form{
+	.contact-form, .work-form{
 		width: 100%;
 	}
 }
