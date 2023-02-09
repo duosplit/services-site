@@ -7,6 +7,9 @@ welcome:
 welcome_description:
   en: MP Software Solutions Inc. offers cutting edge solutions in terms of software deployments and SDLC enhancements.
   fr: 
+about_title:
+  en: About the firm
+  fr: 
 base_path:
   en: /
   fr: /fr
