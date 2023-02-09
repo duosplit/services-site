@@ -34,8 +34,9 @@
 	      </button>
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
-	        <ul class="navbar-nav nav ml-auto">
+	        <ul class="navbar-nav nav ml-auto" style="margin-left: 35% !important;">
 	          <li class="nav-item"><a href="#home-section" class="nav-link"><span>Home</span></a></li>
+			  <li class="nav-item"><a href="#expertise-section" class="nav-link"><span>Expertise</span></a></li>
 	          <li class="nav-item"><a href="#services-section" class="nav-link"><span>Services</span></a></li>
 	          <!-- <li class="nav-item"><a href="#projects-section" class="nav-link"><span>Projects</span></a></li> -->
 			  <li class="nav-item"><a href="#work-section" class="nav-link"><span>Work For Us</span></a></li>
@@ -90,7 +91,7 @@
     </section>
 		
 
-    <section class="ftco-section ftco-no-pb ftco-no-pt ftco-services bg-light" id="services-section">
+    <section class="ftco-section ftco-no-pb ftco-no-pt ftco-services bg-light" id="expertise-section">
       <div class="container">
         <div class="row no-gutters">
           <div class="col-md-4 ftco-animate py-5 nav-link-wrap">
@@ -111,6 +112,9 @@
           <div class="col-md-8 ftco-animate p-4 p-md-5 d-flex align-items-center">
             
             <div class="tab-content pl-md-5" id="v-pills-tabContent">
+			  <div class="col-md-12 heading-section ftco-animate">
+				<span class="subheading">Expertise</span>
+			  </div>
 
               <div class="tab-pane fade show active py-5" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-1-tab">
                 <span class="icon mb-3 d-block flaticon-ideas"></span>
@@ -159,8 +163,16 @@
       </div>
     </section>
 
-    <section class="ftco-section-2 img" style="background-image: url(img/container-port.jpg);">
+    <section class="ftco-section-2 img" style="background-image: url(img/container-port.jpg);" id="services-section">
     	<div class="container">
+			<div class="counter-wrap ftco-animate mt-md-3 col-md-4" style="position: absolute; top: 150px;">
+				<div class="text p-4 bg-primary">
+					<p class="mb-0" style="display: block; margin: 0 auto;">
+						<span style="color: white;">SERVICES</span>
+					</p>
+				</div>
+		    </div>
+
     		<div class="row d-md-flex justify-content-end">
     			<div class="col-md-6">
     				<div class="row">
@@ -305,7 +317,15 @@
                 <input id="form-email" type="text" class="form-control" placeholder="Email" required>
               </div>
               <div class="form-group">
-                <input id="form-subject" type="text" class="form-control" placeholder="Subject" required>
+				<p>Please tell us about your expertise in which you are proficient</p>
+				<input type="checkbox" id="infra_eng" name="infra_eng" value="infra_eng">
+				<label for="infra_eng"> Infrastructure Engineering</label><br>
+				<input type="checkbox" id="sw_eng" name="sw_eng" value="sw_eng">
+				<label for="sw_eng"> Software Engineering</label><br>
+				<input type="checkbox" id="do_specialist" name="do_specialist" value="do_specialist">
+				<label for="do_specialist"> DevOps Automations</label><br>
+				<input type="checkbox" id="sw_arch" name="sw_arch" value="sw_arch">
+				<label for="sw_arch"> Software Architecture</label><br>
               </div>
               <div class="form-group">
                 <textarea id="form-message" cols="30" rows="7" class="form-control" placeholder="Message" required></textarea>
