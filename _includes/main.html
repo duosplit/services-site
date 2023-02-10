@@ -61,7 +61,7 @@
 		          		<span class="subheading">{{ site.data.snippets.welcome[page.lang] }}</span>
 			            <h1 class="mb-4 mt-3">{{ site.data.snippets.og_description[page.lang] }}</h1>
 						<p>{{ site.data.snippets.welcome_description[page.lang] }}</p>			            
-			            <p><a href="#contact-section" class="btn btn-primary px-5 py-3 mt-3">Get in touch</a></p>
+			            <p><a href="#contact-section" class="btn btn-primary px-5 py-3 mt-3">{{ site.data.snippets.contact_us[page.lang] }}</a></p>
 		            </div>
 		          </div>
 	        	</div>
@@ -102,8 +102,10 @@
 
               <a class="nav-link px-4" id="v-pills-3-tab" data-toggle="pill" href="#v-pills-3" role="tab" aria-controls="v-pills-3" aria-selected="false"><span class="mr-3 flaticon-analysis"></span> {{ site.data.snippets.title_cicd[page.lang] }}</a>
 
+			  <a class="nav-link px-4" id="v-pills-5-tab" data-toggle="pill" href="#v-pills-5" role="tab" aria-controls="v-pills-5" aria-selected="false"><span class="mr-3 flaticon-innovation"></span> {{ site.data.snippets.title_container[page.lang] }}</a>
+
 			  <a class="nav-link px-4" id="v-pills-6-tab" data-toggle="pill" href="#v-pills-6" role="tab" aria-controls="v-pills-6" aria-selected="false"><span class="mr-3 flaticon-innovation"></span> {{ site.data.snippets.title_devops[page.lang] }}</a>
-            </div>
+			</div>
           </div>
           <div class="col-md-8 ftco-animate p-4 p-md-5 d-flex align-items-center">
             
@@ -114,30 +116,37 @@
 
               <div class="tab-pane fade show active py-5" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-1-tab">
                 <span class="icon mb-3 d-block flaticon-ideas"></span>
-                <h2 class="mb-4">{{ site.data.snippets.title_iac[page.lang] }}</h2>
-                <p>{{ site.data.snippets.description_iac[page.lang] }}</p>
-                <p><a href="#" class="btn btn-primary px-4 py-3">Learn More</a></p>
+                <h2 class="mb-4">{{ site.data.snippets.description_iac[page.lang] }}</h2>
+				<p>{{ site.data.snippets.description_iac_content[page.lang] }}</p>
+                <p><a href="#contact-section" class="btn btn-primary px-4 py-3">{{ site.data.snippets.contact_us[page.lang] }}</a></p>
               </div>
 
               <div class="tab-pane fade py-5" id="v-pills-2" role="tabpanel" aria-labelledby="v-pills-2-tab">
                 <span class="icon mb-3 d-block flaticon-flasks"></span>
-                <h2 class="mb-4">{{ site.data.snippets.title_sdlc[page.lang] }}</h2>
-				<p>{{ site.data.snippets.description_sdlc[page.lang] }}</p>
-                <p><a href="#" class="btn btn-primary px-4 py-3">Learn More</a></p>
+                <h2 class="mb-4">{{ site.data.snippets.description_sdlc[page.lang] }}</h2>
+				<p>{{ site.data.snippets.description_sdlc_content[page.lang] }}</p>
+                <p><a href="#contact-section" class="btn btn-primary px-4 py-3">{{ site.data.snippets.contact_us[page.lang] }}</a></p>
               </div>
 
               <div class="tab-pane fade py-5" id="v-pills-3" role="tabpanel" aria-labelledby="v-pills-3-tab">
                 <span class="icon mb-3 d-block flaticon-analysis"></span>
-                <h2 class="mb-4">{{ site.data.snippets.title_cicd[page.lang] }}</h2>
-				<p>{{ site.data.snippets.description_cicd[page.lang] }}</p>
-                <p><a href="#" class="btn btn-primary px-4 py-3">Learn More</a></p>
+                <h2 class="mb-4">{{ site.data.snippets.description_cicd[page.lang] }}</h2>
+				<p>{{ site.data.snippets.description_cicd_content[page.lang] }}</p>
+                <p><a href="#contact-section" class="btn btn-primary px-4 py-3">{{ site.data.snippets.contact_us[page.lang] }}</a></p>
+              </div>
+
+			  <div class="tab-pane fade py-5" id="v-pills-5" role="tabpanel" aria-labelledby="v-pills-5-tab">
+                <span class="icon mb-3 d-block flaticon-innovation"></span>
+                <h2 class="mb-4">{{ site.data.snippets.description_container[page.lang] }}</h2>
+				<p>{{ site.data.snippets.description_container_content[page.lang] }}</p>
+                <p><a href="#contact-section" class="btn btn-primary px-4 py-3">{{ site.data.snippets.contact_us[page.lang] }}</a></p>
               </div>
 
               <div class="tab-pane fade py-5" id="v-pills-6" role="tabpanel" aria-labelledby="v-pills-6-tab">
                 <span class="icon mb-3 d-block flaticon-innovation"></span>
-                <h2 class="mb-4">{{ site.data.snippets.title_devops[page.lang] }}</h2>
-				<p>{{ site.data.snippets.description_devops[page.lang] }}</p>
-                <p><a href="#" class="btn btn-primary px-4 py-3">Learn More</a></p>
+                <h2 class="mb-4">{{ site.data.snippets.description_devops[page.lang] }}</h2>
+				<p>{{ site.data.snippets.description_devops_content[page.lang] }}</p>
+                <p><a href="#contact-section" class="btn btn-primary px-4 py-3">{{ site.data.snippets.contact_us[page.lang] }}</a></p>
               </div>
             </div>
           </div>
