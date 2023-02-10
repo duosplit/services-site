@@ -35,19 +35,13 @@ privacy_policy_content:
   en: todo
   fr: todo
 title_iac:
-  en: Infrastructure as Code (IaC)
+  en: Reproducible Infrastructures (IaC)
   fr:
 title_sdlc:
   en: SDLC Definition
   fr: 
 title_cicd:
-  en: CI/CD Pipelines
-  fr:
-title_containers_orchestration:
-  en: Container Orchestration
-  fr:
-title_cloud:
-  en: Cloud Computing
+  en: Deployment Pipelines (CI/CD)
   fr:
 title_devops:
   en: DevOps Automations
@@ -60,12 +54,6 @@ description_sdlc:
   fr: SDLC
 description_cicd:
   en: CI/CD
-  fr:
-description_containers_orchestration:
-  en: Container Orchestration
-  fr:
-description_cloud:
-  en: Cloud
   fr:
 description_devops:
   en: DevOps
