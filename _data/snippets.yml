@@ -44,7 +44,7 @@ title_cicd:
   en: CI/CD Pipelines
   fr:
 title_containers_orchestration:
-  en: Containers & Orchestration
+  en: Container Orchestration
   fr:
 title_cloud:
   en: Cloud Computing
@@ -62,7 +62,7 @@ description_cicd:
   en: CI/CD
   fr:
 description_containers_orchestration:
-  en: Containers & Orchestration
+  en: Container Orchestration
   fr:
 description_cloud:
   en: Cloud
