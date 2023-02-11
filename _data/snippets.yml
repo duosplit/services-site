@@ -39,7 +39,7 @@ privacy_policy_content:
   fr: todo
 
 title_iac:
-  en: Reproducible Infrastructures (IaC)
+  en: Reproducible Infrastructures - IaC
   fr:
 description_iac:
   en: Mitigate operational risks with reproducible results. 
@@ -52,7 +52,7 @@ description_iac_content2:
   fr: 
 
 title_sdlc:
-  en: SDLC Definition
+  en: Workflow Optimization - SDLC
   fr: 
 description_sdlc:
   en: Enhance developer experience with coherent SDLC.
@@ -62,7 +62,7 @@ description_sdlc_content:
   fr:
 
 title_cicd:
-  en: Deployment Pipelines (CI/CD)
+  en: Deployment Pipelines - CI/CD
   fr:
 description_cicd:
   en: Pave the road to production with deployment strategies. CI/CD
@@ -72,7 +72,7 @@ description_cicd_content:
   fr:
 
 title_container:
-  en: Workload Containerization
+  en: Workload Packaging - Container
   fr:
 description_container:
   en: Package ....
@@ -82,7 +82,7 @@ description_container_content:
   fr:
 
 title_devops:
-  en: DevOps Automations
+  en: Operational Development - DevOps
   fr:
 description_devops:
   en: Engage development teams with workflow automations.
