@@ -45,17 +45,17 @@ description_iac:
   en: Mitigate operational risks with reproducible results. 
   fr:
 description_iac_content:
-  en: From Cloud Native workflows to legacy infrastructures, Infrastructure as Code (IaC) is a key to reproducible deployments. By describing how infrastructure is provisionned, IaC is able to keep great choesion and reduce team cognitive load related to software deployment complexities.  
+  en: From Cloud Native workflows to legacy infrastructures, Infrastructure as Code (IaC) is a key to reproducible deployments. By describing how infrastructure is provisionned, IaC is able to keep great cohesion and reduce team cognitive load related to software deployment complexities.  
   fr:
 description_iac_content2:
-  en: 
+  en: We focus on reproducible software and infrastructure deployments via a pragmatic approach.
   fr: 
 
 title_sdlc:
   en: Workflow Optimization - SDLC
   fr: 
 description_sdlc:
-  en: Enhance developer experience with coherent SDLC.
+  en: Enhance development experience with coherent SDLC.
   fr: 
 description_sdlc_content:
   en:
@@ -72,7 +72,7 @@ description_cicd_content:
   fr:
 
 title_container:
-  en: Workload Packaging - Container
+  en: Workload Packaging - Containers
   fr:
 description_container:
   en: Package ....
