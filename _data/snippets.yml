@@ -2,7 +2,7 @@ welcome:
   en: Welcome to MP Software Solutions Inc.
   fr: Bienvenue à MP Solutions Logicielles MP Inc.
 welcome_description:
-  en: MP Software Solutions Inc. offers cutting edge solutions in terms of software deployments and SDLC enhancements.
+  en: MP Software Solutions Inc. offers services that focus on automating your software development life cycle and streamlining your software delivery process.
   fr: 
 about_title:
   en: About the firm
@@ -17,14 +17,14 @@ title:
   en: MP Software Solutions Inc.
   fr: Solutions Logicielles MP Inc.
 description:
-  en: Software engineering focussed <span>services</span>.
+  en: Software engineering <span>services</span>.
   fr: <span>Services</span> spécialisés en ingénierie logicielle.
 
 og_title:
   en: MP Software Solutions Inc.
   fr: Solutions Logicielles MP Inc.
 og_description:
-  en: Software engineering focussed services.
+  en: Software engineering services.
   fr: Services spécialisés en ingénierie logicielle.
 og_url:
   en: https://solutionslogiciellesmp.com/
@@ -72,10 +72,10 @@ title_cicd:
   en: Deployment Pipelines - CI/CD
   fr:
 description_cicd:
-  en: Pave the road to production with deployment strategies. CI/CD
+  en: Pave the road to production with deployment strategies.
   fr:
 description_cicd_content:
-  en: CI/CD is at the heart of effective delivery processes. Defining in an effective manner the delivery flow is what makes your team focus on delivering value while making sure automations handle repetitive yet complex deployment logic.
+  en: Continuous integration and delivery (CI/CD) is at the heart of effective delivery processes. Defining in an effective manner the way changes get in the hands of your customers is what makes your team focus on delivering value while making sure automations handle repetitive yet complex deployment logic.
   fr:
 description_cicd_content2:
   en: 
