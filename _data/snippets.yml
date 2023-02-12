@@ -85,13 +85,13 @@ title_container:
   en: Workload Packaging - Containers
   fr:
 description_container:
-  en: Package ....
+  en: Improve value delivery with packaged business logic.
   fr:
 description_container_content:
-  en:
+  en: Software deployment reproducibility starts with encapsulated business logic in containers. 
   fr:
 description_container_content2:
-  en:
+  en: Getting to know and apply advanced techniques to package software is hard and that's why we are here to help you. From build time optimization to run time optimizations, we can drastically enhance the container usage experience in your project. 
   fr:
 
 title_devops:
