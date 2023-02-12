@@ -1,6 +1,3 @@
-page_title:
-  en: MP Software Solutions Inc.
-  fr: Solutions Logicielles MP Inc.
 welcome:
   en: Welcome to MP Software Solutions Inc.
   fr: Bienvenue à MP Solutions Logicielles MP Inc.
@@ -16,12 +13,19 @@ contact_us:
 base_path:
   en: /
   fr: /fr
+title:
+  en: MP Software Solutions Inc.
+  fr: Solutions Logicielles MP Inc.
+description:
+  en: Software engineering focussed <span>services</span>.
+  fr: <span>Services</span> spécialisés en ingénierie logicielle.
+
 og_title:
   en: MP Software Solutions Inc.
   fr: Solutions Logicielles MP Inc.
 og_description:
-  en: Software engineering focussed <span>services</span>.
-  fr: <span>Services</span> spécialisés en ingénierie logicielle.
+  en: Software engineering focussed services.
+  fr: Services spécialisés en ingénierie logicielle.
 og_url:
   en: https://solutionslogiciellesmp.com/
   fr: https://solutionslogiciellesmp/fr
@@ -60,6 +64,9 @@ description_sdlc:
 description_sdlc_content:
   en:
   fr:
+description_sdlc_content2:
+  en:
+  fr:
 
 title_cicd:
   en: Deployment Pipelines - CI/CD
@@ -68,7 +75,10 @@ description_cicd:
   en: Pave the road to production with deployment strategies. CI/CD
   fr:
 description_cicd_content:
-  en:
+  en: CI/CD is at the heart of effective delivery processes. Defining in an effective manner the delivery flow is what makes your team focus on delivering value while making sure automations handle repetitive yet complex deployment logic.
+  fr:
+description_cicd_content2:
+  en: 
   fr:
 
 title_container:
@@ -80,6 +90,9 @@ description_container:
 description_container_content:
   en:
   fr:
+description_container_content2:
+  en:
+  fr:
 
 title_devops:
   en: Operational Development - DevOps
@@ -88,6 +101,9 @@ description_devops:
   en: Engage development teams with workflow automations.
   fr:
 description_devops_content:
+  en:
+  fr:
+description_devops_content2:
   en:
   fr:
 
@@ -125,4 +141,16 @@ work_for_us:
 work_for_us_content:
   en: Be part and take pride of engaging software related challenges.
   fr: 
+
+about_content:
+  en: Building and deliverying software in     is hard.
+  fr:
+about_content2:
+  en:
+  fr:
+about_content3:
+  en:
+  fr:
+
+
 
