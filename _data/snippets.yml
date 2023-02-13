@@ -158,3 +158,22 @@ switch_lang:
 switch_lang_href:
   en: /fr
   fr: /en
+
+section_home:
+  en: Home
+  fr: Accueil
+section_expertise:
+  en: Expertise
+  fr: Expertise
+section_services:
+  en: Services
+  fr: Services
+section_work_for_us:
+  en: Work For Us
+  fr: Travailler pour nous
+section_about:
+  en: About
+  fr: À propose
+section_contact:
+  en: Contact
+  fr: Contacter
