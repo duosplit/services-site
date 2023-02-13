@@ -101,11 +101,11 @@ description_devops:
   en: Engage development teams with workflow automations.
   fr:
 description_devops_content:
-  en:
+  en: Building software is one thing, but being able to get development, operations and business stakeholders on the same point of view is challenging. In today's quality driven software product related industry, it's crucial to bring operational development methodologies and tools to the table in order to enhance workflows.
   fr:
 description_devops_content2:
-  en:
-  fr:
+  en: We mainly work on bringing vendor neutrality open source technologies to corporate environments to benefit from community driven initiative focussed on operational development.
+  fr: 
 
 
 service_development:
