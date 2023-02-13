@@ -18,7 +18,7 @@ title:
   fr: Solutions Logicielles MP Inc.
 description:
   en: Software engineering <span>services</span>.
-  fr: <span>Services</span> spécialisés en ingénierie logicielle.
+  fr: <span>Services spécialisés</span> en ingénierie logicielle.
 
 og_title:
   en: MP Software Solutions Inc.
@@ -152,5 +152,9 @@ about_content3:
   en:
   fr:
 
-
-
+switch_lang:
+  en: FR
+  fr: EN
+switch_lang_href:
+  en: /fr
+  fr: /en
