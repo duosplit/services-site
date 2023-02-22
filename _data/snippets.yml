@@ -179,7 +179,3 @@ section_contact:
   fr: Contacter
 
 
-# styling hack
-header_margin_left:
-  en: 38%
-  fr: 37%
