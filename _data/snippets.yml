@@ -17,7 +17,7 @@ title:
   en: MP Software Solutions Inc.
   fr: Solutions Logicielles MP Inc.
 description:
-  en: Software engineering <span>services</span>.
+  en: Software engineering <span>specialized services</span>.
   fr: <span>Services spécialisés</span> en ingénierie logicielle.
 
 og_title:
@@ -85,7 +85,7 @@ title_container:
   en: Workload Packaging - Containers
   fr:
 description_container:
-  en: Modernize value delivery with containerized business logic.
+  en: Streamline value delivery with containerized business logic.
   fr:
 description_container_content:
   en: Software deployment reproducibility starts with encapsulated business logic in containers. 
@@ -94,17 +94,17 @@ description_container_content2:
   en: Getting to know and apply advanced techniques to package software is hard and that's why we are here to help you. From build time optimization to run time optimizations, we can drastically enhance the container usage experience in your project. 
   fr:
 
-title_devops:
-  en: Operational Development - DevOps
+title_cloud:
+  en: On-demand Resources - Cloud
   fr:
-description_devops:
-  en: Engage development teams with workflow automations.
+description_cloud:
+  en: 
   fr:
-description_devops_content:
-  en: Building software is one thing, but being able to get development, operations and business stakeholders on the same point of view is challenging. In today's quality driven software product related industry, it's crucial to bring operational development methodologies and tools to the table in order to enhance workflows.
+description_cloud_content:
+  en: 
   fr:
-description_devops_content2:
-  en: We mainly work on bringing vendor neutrality open source technologies to corporate environments to benefit from community driven initiative focussed on operational development.
+description_cloud_content2:
+  en: 
   fr: 
 
 
@@ -143,13 +143,13 @@ work_for_us_content:
   fr: 
 
 about_content:
-  en: Building and deliverying software in     is hard.
+  en: Building software is challenging. High demand on cognitive load on your team members to keep up with technologies that constantly evolve. Requirements constantly changing shouldn't be a blocker.
   fr:
 about_content2:
-  en:
+  en: At MP Software Solutions Inc., we help you bring automation and reproducibility to life in your projects. Your software development life cycle and delivery process is at the core of our approach.
   fr:
 about_content3:
-  en:
+  en: We mainly use vendor neutral open source technologies in order to benefit from flexibility.
   fr:
 
 switch_lang:
