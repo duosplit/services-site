@@ -1,16 +1,24 @@
 // FORM
-function sendForm() {
-    var destinationEmail = "contact@solutionslogiciellesmp.com";
-    var name = $('#form-name').val();
-    var email = $('#form-email').val();
-    var subject = $('#form-subject').val();
-    var message = $('#form-message').val().replace(/\n/g, '%0A');
-
-    var emailString = "mailto:" + destinationEmail + "?subject=" + subject + "&body=" + message + "%0A%0A" + name + "%0A" + email;
-
-    window.open(emailString);
-}
-
 $("#form-contact").submit(function (e) {
     e.preventDefault();
+    var action = $(this).attr("action");
+    var formData = new FormData(this);
+    formData.set("message", formData.get("message").replace(/\n/g, '%0A'));
+    console.log(formData.get("message"))
+    $.ajax({
+        type: "POST",
+        url: action,
+        crossDomain: true,
+        data: formData,
+        dataType: "json",
+        processData: false,
+        contentType: false,
+        headers: {
+            "Accept": "application/json"
+        }
+    }).done(function () {
+        alert("Message received. We will contact you briefly.")
+    }).fail(function () {
+        alert('An error occurred. Please try again later.')
+    });
 });
