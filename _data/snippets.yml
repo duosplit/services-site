@@ -62,10 +62,10 @@ description_sdlc:
   en: Enhance development experience with coherent SDLC.
   fr: 
 description_sdlc_content:
-  en:
+  en: Identifying bottlenecks in the software development life cycle is crucial yet challenging when we are in the day to day operations. 
   fr:
 description_sdlc_content2:
-  en:
+  en: At MP Software Solutions Inc., we look at the big picture when comes time to assess the workflow.
   fr:
 
 title_cicd:
@@ -98,10 +98,10 @@ title_cloud:
   en: On-demand Resources - Cloud
   fr:
 description_cloud:
-  en: 
+  en: Scale workloads with Cloud resources.
   fr:
 description_cloud_content:
-  en: 
+  en: Operating Cloud resources requires a wide variety of skillsets.
   fr:
 description_cloud_content2:
   en: 
@@ -114,10 +114,10 @@ description_devops:
   en: Engage development teams with workflow automations.
   fr:
 description_devops_content:
-  en: Building software is one thing, but being able to get development, operations and business stakeholders on the same point of view is challenging. In today's quality driven software product related industry, it's crucial to bring operational development methodologies and tools to the table in order to enhance workflows.
+  en: In today's quality driven software product related industry, it's crucial to bring operational development methodologies and tools to the table in order to enhance workflows.
   fr:
 description_devops_content2:
-  en: We mainly work on bringing vendor neutrality open source technologies to corporate environments to benefit from community driven initiative focussed on operational development.
+  en: 
   fr: 
 
 
