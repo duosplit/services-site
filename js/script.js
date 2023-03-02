@@ -4,7 +4,6 @@ $("#form-contact").submit(function (e) {
     var action = $(this).attr("action");
     var formData = new FormData(this);
     formData.set("message", formData.get("message").replace(/\n/g, '%0A'));
-    console.log(formData.get("message"))
     $.ajax({
         type: "POST",
         url: action,
