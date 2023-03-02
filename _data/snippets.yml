@@ -46,7 +46,7 @@ title_iac:
   en: Reproducible Infrastructures - IaC
   fr:
 description_iac:
-  en: Mitigate operational risks with reproducible results. 
+  en: Mitigate operational risks with reproducible environments. 
   fr:
 description_iac_content:
   en: From Cloud Native workflows to legacy infrastructures, Infrastructure as Code (IaC) is a key to reproducible deployments. By describing how infrastructure is provisionned, IaC is able to keep great cohesion and reduce team cognitive load related to software deployment complexities.  
@@ -132,7 +132,7 @@ service_personalized_support:
   en: Advisory Services
   fr:
 service_personalized_support_content:
-  en: Align business with technical solution development and deployment. 
+  en: Identify and remediate bottlenecks threatening solution development and deployment. 
   fr:
 
 title_training:
