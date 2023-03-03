@@ -49,10 +49,10 @@ description_iac:
   en: Mitigate operational risks with reproducible environments. 
   fr:
 description_iac_content:
-  en: From Cloud Native workflows to legacy infrastructures, Infrastructure as Code (IaC) is a key to reproducible deployments. By describing how infrastructure is provisionned, IaC is able to keep great cohesion and reduce team cognitive load related to software deployment complexities.  
+  en: From Cloud Native to legacy infrastructures, Infrastructure as Code (IaC) is a key to reproducible deployments. IaC allows high delivery velocity and reduces team cognitive load related to software deployment complexities.  
   fr:
 description_iac_content2:
-  en: We focus on reproducible software and infrastructure deployments via a pragmatic approach.
+  en: At MP Software Solutions Inc., we focus on reproducible software and infrastructure deployments. Whether you have containers or virtual machines resource virtualization technologies, we can develop infrastructure deployments that will allow you to deploy your solutions today and tomorrow.
   fr: 
 
 title_sdlc:
@@ -62,10 +62,10 @@ description_sdlc:
   en: Enhance development experience with coherent SDLC.
   fr: 
 description_sdlc_content:
-  en: Identifying bottlenecks in the software development life cycle is crucial yet challenging when we are in the day to day operations. 
+  en: Identifying bottlenecks in the software development life cycle is crucial yet challenging when dealing with day to day operations. 
   fr:
 description_sdlc_content2:
-  en: At MP Software Solutions Inc., we look at the big picture when comes time to assess the workflow.
+  en: At MP Software Solutions Inc., we look at the big picture when comes time to assess the workflow. 
   fr:
 
 title_cicd:
@@ -78,7 +78,7 @@ description_cicd_content:
   en: Continuous integration and delivery (CI/CD) is at the heart of effective delivery processes. Defining in an effective manner the way changes get in the hands of your customers is what makes your team focus on delivering value while making sure automations handle repetitive yet complex deployment logic.
   fr:
 description_cicd_content2:
-  en: 
+  en: At MP Software Solutions Inc., release management 
   fr:
 
 title_container:
@@ -104,7 +104,7 @@ description_cloud_content:
   en: Operating Cloud resources requires a wide variety of skillsets.
   fr:
 description_cloud_content2:
-  en: 
+  en: private and public,hybrid
   fr: 
 
 title_devops:
@@ -162,7 +162,7 @@ about_content2:
   en: At MP Software Solutions Inc., we help you bring automation and reproducibility to life in your projects. Your software development life cycle and delivery process is at the core of our approach.
   fr:
 about_content3:
-  en: We mainly use vendor neutral open source technologies in order to benefit from flexibility.
+  en: We mainly use vendor neutral open source technologies in order to benefit from flexibility. Since there is no silver bullet in software engineering, we consider your business, technical and human constraints to propose the best solutions.
   fr:
 
 switch_lang:
