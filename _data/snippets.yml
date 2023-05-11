@@ -3,13 +3,13 @@ welcome:
   fr: Bienvenue chez MP Solutions Logicielles MP Inc.
 welcome_description:
   en: We help SMEs and corporations articulate the vision of their software products and improve their software delivery processes.
-  fr: 
+  fr: Nous aidons les PME et les entreprises à articuler la vision de leurs produits logiciels et à améliorer leurs processus de livraison logicielle.
 about_title:
   en: About the firm
   fr: 
 contact_us:
   en: Contact Us
-  fr: 
+  fr: Contactez-nous
 base_path:
   en: /
   fr: /fr
@@ -45,9 +45,9 @@ privacy_policy_content:
 
 title_product_design:
   en: Product Design
-  fr:
+  fr: Conception de produit
 description_product_design:
-  en:  
+  en: 
   fr:
 description_product_design_content:
   en: aaaa  
@@ -62,7 +62,7 @@ description_product_design_content2:
 
 title_continuous_improvement:
   en: Continuous Improvement
-  fr:
+  fr: Amélioration continue
 description_continuous_improvement:
   en:  
   fr:
@@ -79,7 +79,7 @@ description_continuous_improvement_content2:
 
 title_software_architecture:
   en: Software Architecture
-  fr:
+  fr: Architecture logicielle
 description_software_architecture:
   en:  
   fr:
@@ -95,7 +95,7 @@ description_software_architecture_content2:
 
 title_business_intelligence:
   en: Business Intelligence
-  fr:
+  fr: Intelligence d'affaires
 description_business_intelligence:
   en:  
   fr:
@@ -189,21 +189,21 @@ description_business_intelligence_content2:
 
 service_development:
   en: Solution Development
-  fr:
+  fr: Développement de solution
 service_development_content:
   en: Hands-on approach to deliver tangible results meeting your expectations. 
   fr:
 
 service_personalized_support:
   en: Advisory Services
-  fr:
+  fr: Services conseil
 service_personalized_support_content:
   en: Identify and remediate bottlenecks threatening solution development and deployment. 
   fr:
 
 title_training:
   en: Specialized Training
-  fr:
+  fr: Accompagnement spécialisé
 title_training_content:
   en: Make sure your team keeps the pace with the right practices and tooling in the industry.
   fr:
@@ -252,7 +252,7 @@ section_work_for_us:
   fr: Travailler pour nous
 section_about:
   en: About
-  fr: À propose
+  fr: À propos
 section_contact:
   en: Contact
   fr: Contacter
