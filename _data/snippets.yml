@@ -196,7 +196,7 @@ service_development_content:
 
 service_personalized_support:
   en: Advisory Services
-  fr: Services conseil
+  fr: Service conseil
 service_personalized_support_content:
   en: Identify and remediate bottlenecks threatening solution development and deployment. 
   fr:
