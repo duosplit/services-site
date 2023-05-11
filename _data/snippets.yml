@@ -2,7 +2,7 @@ welcome:
   en: Welcome to MP Software Solutions Inc.
   fr: Bienvenue chez MP Solutions Logicielles MP Inc.
 welcome_description:
-  en: We help SMEs and corporations articulate the vision of their software products, automate software development life cycle and define software delivery process.
+  en: We help SMEs and corporations articulate the vision of their software products and improve their software delivery processes.
   fr: 
 about_title:
   en: About the firm
@@ -53,7 +53,11 @@ description_product_design_content:
   en: aaaa  
   fr:
 description_product_design_content2:
-  en: bbb
+  en: |
+    - Design thinking <br>
+    - Product vision refinement <br>
+    - Roadmap planning
+    - Research & Development
   fr: 
 
 title_continuous_improvement:
@@ -66,7 +70,11 @@ description_continuous_improvement_content:
   en: aaaa  
   fr:
 description_continuous_improvement_content2:
-  en: bbb
+  en: |
+    - DevOps <br>
+    - Infrastructure as Code (IaC) <br>
+    - SDLC <br>
+    - CI/CD
   fr: 
 
 title_software_architecture:
@@ -76,10 +84,27 @@ description_software_architecture:
   en:  
   fr:
 description_software_architecture_content:
-  en: aaaa  
+  en: We design and develop ...  
   fr:
 description_software_architecture_content2:
-  en: bbb
+  en: | 
+    - Cloud infrastructures <br>
+    - Web architectures <br>
+    - Containerized infrastructures
+  fr: 
+
+title_business_intelligence:
+  en: Business Intelligence
+  fr:
+description_business_intelligence:
+  en:  
+  fr:
+description_business_intelligence_content:
+  en: We design and develop ...  
+  fr:
+description_business_intelligence_content2:
+  en: | 
+    - Interactive dashboard solutions
   fr: 
 
 
