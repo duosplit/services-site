@@ -17,8 +17,8 @@ title:
   en: MP Software Solutions Inc.
   fr: Solutions Logicielles MP Inc.
 description:
-  en: Software engineering <span>specialized services</span>.
-  fr: <span>Services spécialisés</span> en ingénierie logicielle.
+  en: "Software engineering <b style='font-weight: bold;'>specialized services</b>."
+  fr: "<b style='font-weight: bold;'>Services spécialisés</b> en ingénierie logicielle."
 
 og_title:
   en: MP Software Solutions Inc.
@@ -56,7 +56,7 @@ description_product_design_content2:
   en: |
     - Design thinking <br>
     - Product vision refinement <br>
-    - Roadmap planning
+    - Roadmap planning <br>
     - Research & Development
   fr: 
 
@@ -90,7 +90,8 @@ description_software_architecture_content2:
   en: | 
     - Cloud infrastructures <br>
     - Web architectures <br>
-    - Containerized infrastructures
+    - Containerized infrastructures <br>
+    - Software delivery pipelines
   fr: 
 
 title_business_intelligence:
