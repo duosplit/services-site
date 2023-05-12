@@ -257,4 +257,21 @@ section_contact:
   en: Contact
   fr: Contacter
 
-
+contact_us_subtitle:
+  en: Tell us about your project and we will get in touch with you as soon as possible.
+  fr: Faites-nous part de votre projet et nous vous contacterons dans les plus brefs délais.
+send_message:
+  en: Send Message
+  fr: Envoyer le message
+contact_full_name:
+  en: Full Name
+  fr: Nom complet
+contact_email:
+  en: Email
+  fr: Courriel
+contact_subject:
+  en: Subject
+  fr: Sujet
+contact_project_info:
+  en: Project Information
+  fr: Informations sur le projet
