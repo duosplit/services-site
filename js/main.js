@@ -19,9 +19,9 @@
 
 	var fullHeight = function() {
 
-		$('.js-fullheight').css('height', $(window).height());
+		$('.js-fullheight').css('height', Math.max($(window).height(), 800));
 		$(window).resize(function(){
-			$('.js-fullheight').css('height', $(window).height());
+			$('.js-fullheight').css('height', Math.max($(window).height(), 800));
 		});
 
 	};
