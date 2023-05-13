@@ -1148,7 +1148,7 @@ h1, h2, h3, h4, h5,
 	margin: 10px;
 	&:after{
 		position: absolute;
-		top: 0;
+		// top: 0;
 		left: 100%;
 		bottom: 0;
 		content: '';
