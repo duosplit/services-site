@@ -509,16 +509,19 @@ h1, h2, h3, h4, h5,
 					}
 				}
 				.subheading{
-					color: $black;
+					color: $white;
 					font-weight: 600;
 					font-size: 12px;
 					letter-spacing: 3px;
 					text-transform: uppercase;
-					color: rgba(0,0,0,.3);
-					color: $primary;
-					@include gradient-background();
 					-webkit-background-clip: text;
-				  -webkit-text-fill-color: transparent;
+				}
+				@media (min-width: 992px) {
+					.subheading {
+						color: $black;
+						color: rgba(0,0,0,.3);
+						color: $primary;
+					}
 				}
 				.text{
 					position: relative;
