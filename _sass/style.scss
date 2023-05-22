@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5,
 			color: $black !important;
 		}
 		@include media-breakpoint-down(md){
-			color: $white;
+			// color: $white;
 		}
 	}
 	
@@ -132,7 +132,7 @@ h1, h2, h3, h4, h5,
 				padding-bottom: .7rem;
 				padding-left: 20px;
 				padding-right: 20px;
-				color: $white;
+				// color: $white;
 				font-weight: 400;
 				opacity: 1!important;
 				span {
@@ -180,7 +180,7 @@ h1, h2, h3, h4, h5,
 					padding-right: 0;
 					padding-bottom: 1rem;
 					padding-top: 0;
-					color: $white;
+					// color: $white;
 				}
 			}
 			
@@ -214,7 +214,7 @@ h1, h2, h3, h4, h5,
 			
 				.nav-link {
 					&.active {
-					background: transparent;
+					// background: transparent;
 					background: none;
 					color: $primary;
 					span {
