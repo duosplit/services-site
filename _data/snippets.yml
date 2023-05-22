@@ -60,16 +60,16 @@ description_product_design_content2:
     - Research & Development
   fr: 
 
-title_continuous_improvement:
-  en: Continuous Improvement
-  fr: Amélioration continue
-description_continuous_improvement:
+title_workflow_automation:
+  en: Workflow Automation
+  fr: Automatisation de flux de travail
+description_workflow_automation:
   en:  
   fr:
-description_continuous_improvement_content:
+description_workflow_automation_content:
   en: aaaa  
   fr:
-description_continuous_improvement_content2:
+description_workflow_automation_content2:
   en: |
     - DevOps <br>
     - Infrastructure as Code (IaC) <br>
