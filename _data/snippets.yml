@@ -73,8 +73,10 @@ description_workflow_automation_content2:
   en: |
     - DevOps <br>
     - Infrastructure as Code (IaC) <br>
+    - GitOps <br>
     - SDLC <br>
-    - CI/CD
+    - CI/CD <br>
+    - Platform engineering
   fr: 
 
 title_software_architecture:
@@ -88,6 +90,7 @@ description_software_architecture_content:
   fr:
 description_software_architecture_content2:
   en: | 
+    - Software engineering <br>
     - Cloud infrastructures <br>
     - Web architectures <br>
     - Containerized infrastructures <br>
@@ -105,7 +108,8 @@ description_business_intelligence_content:
   fr:
 description_business_intelligence_content2:
   en: | 
-    - Interactive dashboard solutions
+    - Interactive dashboard solutions <br>
+    - Data engineering
   fr: 
 
 
