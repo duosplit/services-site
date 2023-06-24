@@ -97,20 +97,20 @@ description_software_architecture_content2:
     - Software delivery pipelines
   fr: 
 
-title_business_intelligence:
-  en: Business Intelligence
-  fr: Intelligence d'affaires
-description_business_intelligence:
-  en: Business Intelligence
-  fr:
-description_business_intelligence_content:
-  en: We design and develop ...  
-  fr:
-description_business_intelligence_content2:
-  en: | 
-    - Interactive dashboard solutions <br>
-    - Data engineering
-  fr: 
+# title_business_intelligence:
+#   en: Business Intelligence
+#   fr: Intelligence d'affaires
+# description_business_intelligence:
+#   en: Business Intelligence
+#   fr:
+# description_business_intelligence_content:
+#   en: We design and develop ...  
+#   fr:
+# description_business_intelligence_content2:
+#   en: | 
+#     - Interactive dashboard solutions <br>
+#     - Data engineering
+#   fr: 
 
 
 # title_iac:
