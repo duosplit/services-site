@@ -70,32 +70,43 @@ description_devops_automation_content:
   en: | 
     DevOps and automation play a decisive role in software delivery speed and quality. It is important to choose the right level of abstraction that your project and business needs. <br><br>
     Here is what MP Software Solutions Inc. can help you with, from elaboration to development to improvement.
-  fr:
+  fr: |
+    DevOps et automatisation jouent un rôle décisif dans la rapidité et la qualité de la livraison des logiciels. Il est important de choisir le bon niveau d'abstraction dont votre projet et votre entreprise ont besoin. <br><br>
+    Voici ce que MP Solutions Logicielles Inc. peut faire pour vous aider, de l'élaboration au développement en passant par l'amélioration.
 description_devops_automation_content2:
   en: |
     - Reproducible infrastructures via Infrastructure as Code (IaC) <br>
     - Application logic bundling via containerization <br>
     - Development and delivery pipeline automation via Continuous Integration and Delivery (CI/CD) <br>
     - Workflow explicitation via Software Delivery Life Cycle (SDLC) <br>
-  fr: 
+  fr: |
+    - Infrastructures reproductibles via Infrastructure as Code (IaC) <br>
+    - Regroupement de la logique d'application via la conteneurisation <br>
+    - Automatisation du pipeline de développement et de livraison via l'intégration et la livraison continues (CI/CD) <br>
+    - Explicitation du flux de travail via le cycle de vie de la livraison du logiciel (SDLC) <br>
 
 title_software_architecture:
   en: Software Architecture
   fr: Architecture logicielle
 description_software_architecture:
   en: Software Architecture
-  fr:
+  fr: Architecture logicielle
 description_software_architecture_content:
-  en: We design and develop ...  
-  fr:
+  en: |
+    Software architecture is the core structure of a software project. Using the right architecture for your project reduces evolution threats. <br><br>
+    Here is what MP Software Solutions Inc. can help you with, from elaboration to development to improvement.
+  fr: |
+    L'architecture logicielle est la structure d'un projet logiciel. L'utilisation de la bonne architecture pour votre projet réduit les menaces d'évolution. <br><br>
+    Voici ce que MP Solutions Logicielles Inc. peut faire pour vous aider, de l'élaboration au développement en passant par l'amélioration.
 description_software_architecture_content2:
   en: | 
     - Software engineering <br>
     - Cloud infrastructures <br>
-    - Web architectures <br>
     - Containerized infrastructures <br>
-    - Software delivery pipelines
-  fr: 
+  fr: |
+    - Ingénierie logicielle <br>
+    - Infrastructures Cloud <br>
+    - Infrastructures conteneurisées <br>
 
 # title_business_intelligence:
 #   en: Business Intelligence
@@ -197,21 +208,21 @@ service_development:
   fr: Développement de solution
 service_development_content:
   en: Hands-on approach to deliver tangible results meeting your expectations. 
-  fr:
+  fr: Approche pratique pour livrer des résultats tangibles à la hauteur de vos attentes.
 
 service_personalized_support:
   en: Advisory Services
   fr: Service conseil
 service_personalized_support_content:
   en: Identify and remediate bottlenecks threatening solution development and deployment. 
-  fr:
+  fr: Identifiez et corrigez les goulots d'étranglement menaçant le développement et le déploiement de solutions.
 
 title_training:
   en: Specialized Training
   fr: Accompagnement spécialisé
 title_training_content:
   en: Make sure your team keeps the pace with the right practices and tooling in the industry.
-  fr:
+  fr: Assurez-vous que votre équipe suit le rythme avec les bonnes pratiques et les bons outils dans l'industrie.
 
 
 email_contact:
@@ -219,22 +230,22 @@ email_contact:
   fr: contact@mpsolutionslogicielles.com
 
 
-work_for_us:
-  en: Work For Us
-  fr:
-work_for_us_content:
-  en: Be part and take pride of engaging software related challenges.
-  fr: 
+# work_for_us:
+#   en: Work For Us
+#   fr:
+# work_for_us_content:
+#   en: Be part and take pride of engaging software related challenges.
+#   fr: 
 
 about_content:
   en: Building software is challenging. High demand on cognitive load on your team members is required to keep up with technologies that constantly evolve. Requirements constantly changing shouldn't be a blocker.
-  fr:
+  fr: Créer du logiciel est un défi. Une forte demande de charge cognitive sur les membres de votre équipe est nécessaire pour suivre les technologies qui évoluent constamment. Les exigences en constante évolution ne doivent pas être un obstacle.
 about_content2:
   en: At MP Software Solutions Inc., we help you bring automation and reproducibility to life in your software products. Your software development life cycle and delivery process is at the core of our approach.
-  fr:
+  fr: Chez MP Solutions Logicielles Inc., nous vous aidons à donner vie à l'automatisation et à la reproductibilité de vos produits logiciels. Votre cycle de vie de développement logiciel et votre processus de livraison sont au cœur de notre approche.
 about_content3:
-  en: We mainly use vendor neutral open source technologies in order to benefit from flexibility. Since there is no silver bullet in software engineering, we consider your business, technical and human constraints to propose the best solutions.
-  fr:
+  en: We mainly use vendor neutral Open Source technologies in order to benefit from flexibility. Since there is no silver bullet in software engineering, we consider your business, technical and human constraints to propose the best solutions.
+  fr: Nous utilisons principalement des technologies Open Source indépendantes des fournisseurs afin de bénéficier de la flexibilité. Puisqu'il n'y a pas de solution miracle en ingénierie logicielle, nous prenons en compte vos contraintes métiers, techniques et humaines pour vous proposer les meilleures solutions.
 
 switch_lang:
   en: FR
