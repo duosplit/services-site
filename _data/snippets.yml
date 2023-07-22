@@ -67,17 +67,16 @@ description_devops_automation:
   en: DevOps & Automation
   fr: DevOps et automatisation
 description_devops_automation_content:
-  en: aaaa  
+  en: | 
+    DevOps and automation play a decisive role in software delivery speed and quality. It is important to choose the right level of abstraction that your project and business needs. <br><br>
+    Here is what MP Software Solutions Inc. can help you with, from elaboration to development to improvement.
   fr:
 description_devops_automation_content2:
   en: |
-    - DevOps <br>
-    - Infrastructure as Code (IaC) <br>
-    - GitOps <br>
-    - containers
-    - SDLC <br>
-    - CI/CD <br>
-    - Platform engineering
+    - Reproducible infrastructures via Infrastructure as Code (IaC) <br>
+    - Application logic bundling via containerization <br>
+    - Development and delivery pipeline automation via Continuous Integration and Delivery (CI/CD) <br>
+    - Workflow explicitation via Software Delivery Life Cycle (SDLC) <br>
   fr: 
 
 title_software_architecture:
