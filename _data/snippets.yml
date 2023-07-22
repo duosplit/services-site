@@ -60,20 +60,21 @@ description_product_design_content2:
     - Research & Development
   fr: 
 
-title_workflow_automation:
-  en: Workflow Automation
-  fr: Automatisation de flux de travail
-description_workflow_automation:
-  en: Workflow Automation
-  fr:
-description_workflow_automation_content:
+title_devops_automation:
+  en: DevOps & Automation
+  fr: DevOps et automatisation
+description_devops_automation:
+  en: DevOps & Automation
+  fr: DevOps et automatisation
+description_devops_automation_content:
   en: aaaa  
   fr:
-description_workflow_automation_content2:
+description_devops_automation_content2:
   en: |
     - DevOps <br>
     - Infrastructure as Code (IaC) <br>
     - GitOps <br>
+    - containers
     - SDLC <br>
     - CI/CD <br>
     - Platform engineering
