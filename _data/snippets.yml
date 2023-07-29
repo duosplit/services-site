@@ -232,8 +232,8 @@ title_training_content:
 
 
 email_contact:
-  en: contact@mpsoftwaresolutions.com
-  fr: contact@mpsolutionslogicielles.com
+  en: contact@mpsolution.ca
+  fr: contact@mpsolution.ca
 
 
 # work_for_us:
@@ -297,3 +297,11 @@ contact_subject:
 contact_project_info:
   en: Project Information
   fr: Informations sur le projet
+
+cookies:
+  en: By clicking "Accept", you agree that we can store cookies on your device.
+  fr: En cliquant sur "Accepter", vous acceptez que nous puissions stocker des cookies sur votre appareil.
+accept:
+  en: Accept
+  fr: Accepter
+
