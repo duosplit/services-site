@@ -1,12 +1,12 @@
 welcome:
-  en: Welcome to MP Software Solutions Inc.
-  fr: Bienvenue chez MP Solutions Logicielles Inc.
+  en: Welcome to MP Solution Inc.
+  fr: Bienvenue chez MP Solution Inc.
 welcome_description:
   en: We help SMEs and corporations articulate the vision of their software products and define their software delivery processes.
   fr: Nous aidons les PME et les entreprises à articuler la vision de leurs produits logiciels et définir leurs processus de livraison logicielle.
 about_title:
-  en: About the firm
-  fr: 
+  en: About the company
+  fr: À propos de l'entreprise
 contact_us:
   en: Contact Us
   fr: Contactez-nous
@@ -14,15 +14,15 @@ base_path:
   en: /
   fr: /fr
 title:
-  en: MP Software Solutions Inc.
-  fr: MP Solutions Logicielles Inc.
+  en: MP Solution Inc.
+  fr: MP Solution Inc.
 description:
   en: "Software engineering <b style='font-weight: bold;'>specialized services</b>."
   fr: "<b style='font-weight: bold;'>Services spécialisés</b> en ingénierie logicielle."
 
 og_title:
-  en: MP Software Solutions Inc.
-  fr: Solutions Logicielles MP Inc.
+  en: MP Solution Inc.
+  fr: MP Solution Inc.
 og_description:
   en: Software engineering services.
   fr: Services spécialisés en ingénierie logicielle.
@@ -48,165 +48,6 @@ proudly_from:
 montreal:
   en: Montreal, Canada
   fr: Montréal, Canada
-
-title_product_design:
-  en: Product Design
-  fr: Conception de produit
-description_product_design:
-  en: Product Design
-  fr:
-description_product_design_content:
-  en: aaaa  
-  fr:
-description_product_design_content2:
-  en: |
-    - Design thinking <br>
-    - Product vision <br>
-    - Roadmap planning <br>
-    - Research & Development
-  fr: 
-
-title_devops_automation:
-  en: DevOps & Automation
-  fr: DevOps et automatisation
-description_devops_automation:
-  en: DevOps & Automation
-  fr: DevOps et automatisation
-description_devops_automation_content:
-  en: | 
-    DevOps and automation play a decisive role in software delivery speed and quality. It is important to choose the right level of abstraction that your project and business needs. <br><br>
-    Here is what MP Software Solutions Inc. can help you with, from elaboration to development to improvement.
-  fr: |
-    DevOps et automatisation jouent un rôle décisif dans la rapidité et la qualité de la livraison des logiciels. Il est important de choisir le bon niveau d'abstraction dont votre projet et votre entreprise ont besoin. <br><br>
-    Voici ce que MP Solutions Logicielles Inc. peut faire pour vous aider, de l'élaboration au développement en passant par l'amélioration.
-description_devops_automation_content2:
-  en: |
-    - Reproducible infrastructures via Infrastructure as Code (IaC) <br>
-    - Application logic bundling via containerization <br>
-    - Development and delivery pipeline automation via Continuous Integration and Delivery (CI/CD) <br>
-    - Workflow explicitation via Software Delivery Life Cycle (SDLC) <br>
-  fr: |
-    - Infrastructures reproductibles via Infrastructure as Code (IaC) <br>
-    - Regroupement de la logique d'application via la conteneurisation <br>
-    - Automatisation du pipeline de développement et de livraison via l'intégration et la livraison continues (CI/CD) <br>
-    - Explicitation du flux de travail via le cycle de vie de la livraison du logiciel (SDLC) <br>
-
-title_software_architecture:
-  en: Software Architecture
-  fr: Architecture logicielle
-description_software_architecture:
-  en: Software Architecture
-  fr: Architecture logicielle
-description_software_architecture_content:
-  en: |
-    Software architecture is the core structure of a software project. Using the right architecture for your project reduces evolution threats. <br><br>
-    Here is what MP Software Solutions Inc. can help you with, from elaboration to development to improvement.
-  fr: |
-    L'architecture logicielle est la structure d'un projet logiciel. L'utilisation de la bonne architecture pour votre projet réduit les menaces d'évolution. <br><br>
-    Voici ce que MP Solutions Logicielles Inc. peut faire pour vous aider, de l'élaboration au développement en passant par l'amélioration.
-description_software_architecture_content2:
-  en: | 
-    - Software engineering <br>
-    - Cloud infrastructures <br>
-    - Containerized infrastructures <br>
-  fr: |
-    - Ingénierie logicielle <br>
-    - Infrastructures Cloud <br>
-    - Infrastructures conteneurisées <br>
-
-# title_business_intelligence:
-#   en: Business Intelligence
-#   fr: Intelligence d'affaires
-# description_business_intelligence:
-#   en: Business Intelligence
-#   fr:
-# description_business_intelligence_content:
-#   en: We design and develop ...  
-#   fr:
-# description_business_intelligence_content2:
-#   en: | 
-#     - Interactive dashboard solutions <br>
-#     - Data engineering
-#   fr: 
-
-
-# title_iac:
-#   en: Reproducible Infrastructures - IaC
-#   fr:
-# description_iac:
-#   en: Mitigate operational risks with reproducible environments. 
-#   fr:
-# description_iac_content:
-#   en: From Cloud Native to legacy infrastructures, Infrastructure as Code (IaC) is a key to reproducible deployments. IaC allows high delivery velocity and reduces team cognitive load related to software deployment complexities.  
-#   fr:
-# description_iac_content2:
-#   en: At MP Software Solutions Inc., we focus on reproducible software and infrastructure deployments. Whether you have containers or virtual machines resource virtualization technologies, we can develop infrastructure deployments that will allow you to deploy your solutions today and tomorrow.
-#   fr: 
-
-# title_sdlc:
-#   en: Workflow Optimization - SDLC
-#   fr: 
-# description_sdlc:
-#   en: Enhance development experience with coherent SDLC.
-#   fr: 
-# description_sdlc_content:
-#   en: Identifying bottlenecks in the software development life cycle is crucial yet challenging when dealing with day to day operations. 
-#   fr:
-# description_sdlc_content2:
-#   en: At MP Software Solutions Inc., we look at the big picture when comes time to assess the workflow. 
-#   fr:
-
-# title_cicd:
-#   en: Deployment Pipelines - CI/CD
-#   fr:
-# description_cicd:
-#   en: Pave the road to production with deployment strategies.
-#   fr:
-# description_cicd_content:
-#   en: Continuous integration and delivery (CI/CD) is at the heart of effective delivery processes. Defining in an effective manner the way changes get in the hands of your customers is what makes your team focus on delivering value while making sure automations handle repetitive yet complex deployment logic.
-#   fr:
-# description_cicd_content2:
-#   en: At MP Software Solutions Inc., release management 
-#   fr:
-
-# title_container:
-#   en: Workload Packaging - Containers
-#   fr:
-# description_container:
-#   en: Streamline value delivery with containerized business logic.
-#   fr:
-# description_container_content:
-#   en: Software deployment reproducibility starts with encapsulated business logic in containers. 
-#   fr:
-# description_container_content2:
-#   en: Getting to know and apply advanced techniques to package software is hard and that's why we are here to help you. From build time optimization to run time optimizations, we can drastically enhance the container usage experience in your project. 
-#   fr:
-
-# title_cloud:
-#   en: On-demand Resources - Cloud
-#   fr:
-# description_cloud:
-#   en: Scale workloads with Cloud resources.
-#   fr:
-# description_cloud_content:
-#   en: Operating Cloud resources requires a wide variety of skillsets.
-#   fr:
-# description_cloud_content2:
-#   en: private and public,hybrid
-#   fr: 
-
-# title_devops:
-#   en: Operational Development - DevOps
-#   fr:
-# description_devops:
-#   en: Engage development teams with workflow automations.
-#   fr:
-# description_devops_content:
-#   en: In today's quality driven software product related industry, it's crucial to bring operational development methodologies and tools to the table in order to enhance workflows.
-#   fr:
-# description_devops_content2:
-#   en: 
-#   fr: 
 
 
 service_development:
@@ -236,19 +77,12 @@ email_contact:
   fr: contact@mpsolution.ca
 
 
-# work_for_us:
-#   en: Work For Us
-#   fr:
-# work_for_us_content:
-#   en: Be part and take pride of engaging software related challenges.
-#   fr: 
-
 about_content:
   en: Building software is challenging. High demand on cognitive load on your team members is required to keep up with technologies that constantly evolve. Requirements constantly changing shouldn't be a blocker.
   fr: Créer du logiciel est un défi. Une forte demande de charge cognitive sur les membres de votre équipe est nécessaire pour suivre les technologies qui évoluent constamment. Les exigences en constante évolution ne doivent pas être un obstacle.
 about_content2:
-  en: At MP Software Solutions Inc., we help you bring automation and reproducibility to life in your software products. Your software development life cycle and delivery process is at the core of our approach.
-  fr: Chez MP Solutions Logicielles Inc., nous vous aidons à donner vie à l'automatisation et à la reproductibilité de vos produits logiciels. Votre cycle de vie de développement logiciel et votre processus de livraison sont au cœur de notre approche.
+  en: At MP Solution Inc., we help you bring automation and reproducibility to life in your software products. Your software development life cycle and delivery process is at the core of our approach.
+  fr: Chez MP Solution Inc., nous vous aidons à donner vie à l'automatisation et à la reproductibilité de vos produits logiciels. Votre cycle de vie de développement logiciel et votre processus de livraison sont au cœur de notre approche.
 about_content3:
   en: We mainly use vendor neutral technologies in order to benefit from flexibility. Since there is no silver bullet in software engineering, we consider your business, technical and human constraints to propose the best solutions.
   fr: Nous utilisons principalement des technologies indépendantes des fournisseurs afin de bénéficier de la flexibilité. Puisqu'il n'y a pas de solution miracle en ingénierie logicielle, nous prenons en compte vos contraintes métiers, techniques et humaines pour vous proposer les meilleures solutions.
@@ -304,4 +138,3 @@ cookies:
 accept:
   en: Accept
   fr: Accepter
-
