@@ -768,12 +768,13 @@ h1, h2, h3, h4, h5,
 		outline: none;
 	}
 	&.btn-primary {
-		@include gradient-background();
+		// @include gradient-background();
+		background: $primary;
 		border: 1px solid $primary !important;
 		color: $white !important;
 		&:hover {
 			border: 1px solid $primary;
-			@include gradient-background();
+			// @include gradient-background();
 			color :$primary;
 		}
 		&.btn-outline-primary {
