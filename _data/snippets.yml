@@ -138,3 +138,92 @@ cookies:
 accept:
   en: Accept
   fr: Accepter
+
+expertise_title:
+  en: Expertise
+  fr: Expertise
+expertise:
+  iac:
+    en: Infrastructure as Code (IaC)
+    fr: Infrastructure codifiées (IaC)
+  cicd:
+    en: Continuous Integration & Delivery (CI/CD)
+    fr: Intégration et livraison continue (CI/CD)
+  containerization:
+    en: Containerization
+    fr: Conteneurisation
+  workflow_automation:
+    en: Workflow Automation
+    fr: Automatisation de flux de travail
+  sdlc:
+    en: Software Delivery Life Cycle (SDLC)
+    fr: Cycle de vie logiciel (SDLC)
+  cloud_architecture:
+    en: Cloud Architecture
+    fr: Architectures infonuagiques
+  web_architecture:
+    en: Web Architecture
+    fr: Architectures Web
+  open_source_integration:
+    en: Open Source Integration
+    fr: Intégration Open source
+  technical_assessment:
+    en: Technical Assessment
+    fr: Évaluation technologique
+  data_engineering:
+    en: Data Engineering
+    fr: Ingénierie de données
+  build_automation:
+    en: Build Butomation
+    fr: Automatisation de compilation
+  e2e_test_pipelines:
+    en: E2E Test Pipelines
+    fr: Pipelines de test bout en bout
+  deployment_pipelines:
+    en: Deployment Pipelines
+    fr: Pipelines de déploiement
+  pipeline_as_code:
+    en: Pipeline as Code
+    fr: Pipelines codifiés
+  release_management:
+    en: Release Management
+    fr: Gestion de version
+  reproducible_infrastructures:
+    en: Reproducible Infrastructures
+    fr: Infrastructures reproductibles
+  cloud_provisioning:
+    en: Cloud Provisioning
+    fr: Provisionnement infonuagique
+  containerized_infrastructures:
+    en: Containerized Infrastructures
+    fr: Infrastructures conteneurisées
+  product_design:
+    en: Product Design
+    fr: Conception de produit
+  mvp:
+    en: MVP
+    fr: MVP
+  cognitive_load:
+    en: Cognitive Load
+    fr: Charge cognitive
+  developer_experience:
+    en: Developer Experience
+    fr: Expérience développeur
+  devops:
+    en: DevOps
+    fr: DevOps
+  software_architecture:
+    en: Software Architecture
+    fr: Architecture logicielle
+  continuous_integration_delivery:
+    en: Continuous Integration & Delivery
+    fr: Intégration et livraison continue
+  infrastructure_automation:
+    en: Infrastructure Automation
+    fr: Automatisation d'infrastructures
+  product_management:
+    en: Product Management
+    fr: Gestion de produit
+  continuous_improvement:
+    en: Continuous Improvement
+    fr: Amélioration continue
