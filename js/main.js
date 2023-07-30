@@ -287,9 +287,3 @@
 	};
 	contentWayPoint();
 })(jQuery);
-
-
-
-$(document).ready(function () {
-	$('#body').show();
-});
