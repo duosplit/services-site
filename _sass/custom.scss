@@ -36,3 +36,9 @@ ul > li {
         margin-top: 152px;
     }
 }
+
+@media (min-width: 992px) {
+    #lang-switcher {
+        display: none;
+    }
+}
