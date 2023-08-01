@@ -220,7 +220,7 @@
 			}
 		});
 	};
-	// scrollWindow();
+	scrollWindow();
 
 	
 
@@ -287,15 +287,3 @@
 	};
 	contentWayPoint();
 })(jQuery);
-
-
-
-// Header scroll class
-$(window).scroll(function () {
-	if ($(this).scrollTop() > 10) {
-		$('.ftco_navbar').addClass('scrolled');
-		$('.ftco_navbar').addClass('awake');
-	} else {
-		$('.ftco_navbar').removeClass('scrolled');
-	}
-});
