@@ -29,14 +29,18 @@ ul > li {
 }
 
 
-body {
-    background-color: red;
-}
+// body {
+//     background-color: red;
+// }
 
 
 @media (max-width: 992px) {
     #home-section {
         margin-top: 152px;
+    }
+
+    .navbar {
+        position: fixed;
     }
 }
 
