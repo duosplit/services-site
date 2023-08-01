@@ -174,7 +174,7 @@ expertise:
     en: Data Engineering
     fr: Ingénierie de données
   build_automation:
-    en: Build Butomation
+    en: Build Automation
     fr: Automatisation de compilation
   e2e_test_pipelines:
     en: E2E Test Pipelines
