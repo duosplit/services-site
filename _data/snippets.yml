@@ -190,7 +190,7 @@ expertise:
     fr: Pipelines codifiées
   release_management:
     en: Release Management
-    fr: Gestion de versions
+    fr: Gestion des publications
   reproducible_infrastructures:
     en: Reproducible Infrastructures
     fr: Infrastructures reproductibles
@@ -200,6 +200,9 @@ expertise:
   containerized_infrastructures:
     en: Containerized Infrastructures
     fr: Infrastructures conteneurisées
+  platform_engineering:
+    en: Platform Engineering
+    fr: Ingénierie de plateforme
   product_design:
     en: Product Design
     fr: Conception de produit
