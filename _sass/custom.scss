@@ -35,9 +35,9 @@ ul > li {
 
 
 @media (max-width: 992px) {
-    #home-section {
-        margin-top: 152px;
-    }
+    // #home-section {
+    //     margin-top: 152px;
+    // }
 
     .navbar {
         position: fixed;
@@ -47,5 +47,30 @@ ul > li {
 @media (min-width: 992px) {
     #lang-switcher {
         display: none;
+    }
+}
+
+
+
+
+// Navbar brand logo margin
+@media (max-width: 992px) {
+    .navbar-brand>img {
+        position: absolute;
+        left: 40px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .navbar-brand > img {
+        position: absolute;
+        left: 40px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .navbar-brand > img {
+        position: absolute;
+        left: 60px;
     }
 }
