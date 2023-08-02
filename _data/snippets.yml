@@ -19,6 +19,9 @@ title:
 description:
   en: "Software engineering <b style='font-weight: bold;'>specialized services</b>."
   fr: "<b style='font-weight: bold;'>Services spécialisés</b> en ingénierie logicielle."
+description_normal:
+  en: Software engineering specialized services.
+  fr: Services spécialisés en ingénierie logicielle.
 
 og_title:
   en: MP Solution Inc.
@@ -84,8 +87,8 @@ about_content2:
   en: At MP Solution Inc., we help you bring automation and reproducibility to life in your software products. Your software development life cycle and delivery process is at the core of our approach.
   fr: Chez MP Solution Inc., nous vous aidons à donner vie à l'automatisation et à la reproductibilité de vos produits logiciels. Votre cycle de vie de développement logiciel et votre processus de livraison sont au cœur de notre approche.
 about_content3:
-  en: We mainly use vendor neutral technologies in order to stay flexible. Since there is no silver bullet in software engineering, we consider your business, technical and human constraints to propose the best solutions that meets your needs.
-  fr: Nous utilisons principalement des technologies indépendantes des fournisseurs afin de rester flexible. Puisqu'il n'y a pas de solution miracle en ingénierie logicielle, nous prenons en compte vos contraintes métiers, techniques et humaines pour proposer les meilleures solutions qui répondent à vos besoins.
+  en: We mainly use vendor neutral technologies in order to stay flexible. Since there is no silver bullet in software engineering, we consider your functional, technical and human constraints to propose the best solutions that meets your needs.
+  fr: Nous utilisons principalement des technologies indépendantes des fournisseurs afin de rester flexible. Puisqu'il n'y a pas de solution miracle en ingénierie logicielle, nous prenons en compte vos contraintes fonctionnelles, techniques et humaines pour proposer les meilleures solutions qui répondent à vos besoins.
 
 switch_lang:
   en: FR
@@ -145,7 +148,7 @@ expertise_title:
 expertise:
   iac:
     en: Infrastructure as Code (IaC)
-    fr: Infrastructure codifiées (IaC)
+    fr: Infrastructures codifiées (IaC)
   cicd:
     en: Continuous Integration & Delivery (CI/CD)
     fr: Intégration et livraison continue (CI/CD)
@@ -166,7 +169,7 @@ expertise:
     fr: Architectures Web
   open_source_integration:
     en: Open Source Integration
-    fr: Intégration Open source
+    fr: Intégration <em>Open Source</em>
   technical_assessment:
     en: Technical Assessment
     fr: Évaluation technologique
@@ -178,16 +181,16 @@ expertise:
     fr: Automatisation de compilation
   e2e_test_pipelines:
     en: E2E Test Pipelines
-    fr: Pipelines de test bout en bout
+    fr: Pipelines de tests bout en bout
   deployment_pipelines:
     en: Deployment Pipelines
     fr: Pipelines de déploiement
   pipeline_as_code:
     en: Pipeline as Code
-    fr: Pipelines codifiés
+    fr: Pipelines codifiées
   release_management:
     en: Release Management
-    fr: Gestion de version
+    fr: Gestion de versions
   reproducible_infrastructures:
     en: Reproducible Infrastructures
     fr: Infrastructures reproductibles
