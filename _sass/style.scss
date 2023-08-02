@@ -1150,7 +1150,7 @@ h1, h2, h3, h4, h5,
 	background: rgba(255,255,255,.9);
 	margin-bottom: 1px;
 	padding: 30px 40px 30px 50px;
-	margin: 10px;
+	margin: 10px 0px;
 	&:after{
 		position: absolute;
 		// top: 0;
@@ -1184,20 +1184,20 @@ h1, h2, h3, h4, h5,
 			}
 		}
 	}
-	&:hover{
-		margin-left: -10px;
-		.icon{
-			span{
-				&:first-child{
-					opacity: 1;
-					margin-left: 5px;
-				}
-				&:last-child{
-					opacity: 0;
-				}
-			}
-		}
-	}
+	// &:hover{
+	// 	margin-left: -10px;
+	// 	.icon{
+	// 		span{
+	// 			&:first-child{
+	// 				opacity: 1;
+	// 				margin-left: 5px;
+	// 			}
+	// 			&:last-child{
+	// 				opacity: 0;
+	// 			}
+	// 		}
+	// 	}
+	// }
 }
 
 // USEFUL CODE
