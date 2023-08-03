@@ -235,7 +235,7 @@ expertise:
     fr: Amélioration continue
 
 privacy_policy:
-  en: Privacy policy
+  en: Privacy Policy
   fr: Politique de vie privée
 privacy_policy_url:
   en: privacy.html
@@ -243,3 +243,13 @@ privacy_policy_url:
 privacy_policy_url_inverse:
   en: vie_privee.html
   fr: privacy.html
+
+terms_of_service:
+  en: Terms of Use
+  fr: Conditions d'utilisation
+terms_of_service_url:
+  en: terms.html
+  fr: conditions.html
+terms_of_service_url_inverse:
+  en: conditions.html
+  fr: terms.html
