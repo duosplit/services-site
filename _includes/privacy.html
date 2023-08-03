@@ -44,11 +44,11 @@
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav nav ml-auto">
 	          <!-- <li class="nav-item"><a href="#home-section" class="nav-link"><span>{{ site.data.snippets.section_home[page.lang] }}</span></a></li> -->
-			  <li class="nav-item"><a href="#expertise-section" class="nav-link"><span>{{ site.data.snippets.section_expertise[page.lang] }}</span></a></li>
-	          <li class="nav-item"><a href="#services-section" class="nav-link"><span>{{ site.data.snippets.section_services[page.lang] }}</span></a></li>
-	          <li class="nav-item"><a href="#about-section" class="nav-link"><span>{{ site.data.snippets.section_about[page.lang] }}</span></a></li>
-			  <li class="nav-item"><a href="#contact-section" class="nav-link"><span>{{ site.data.snippets.section_contact[page.lang] }}</span></a></li>
-			  <li class="nav-item"><a href="{{ site.data.snippets.switch_lang_href[page.lang] }}" data-target="#home" class="nav-link"><span>{{ site.data.snippets.switch_lang[page.lang] }}</span></a></li>
+			  <li class="nav-item"><a href="/{{page.lang}}#expertise-section" class="nav-link"><span style="color: black;">{{ site.data.snippets.section_expertise[page.lang] }}</span></a></li>
+	          <li class="nav-item"><a href="/{{page.lang}}#services-section" class="nav-link"><span style="color: black;">{{ site.data.snippets.section_services[page.lang] }}</span></a></li>
+	          <li class="nav-item"><a href="/{{page.lang}}#about-section" class="nav-link"><span style="color: black;">{{ site.data.snippets.section_about[page.lang] }}</span></a></li>
+			  <li class="nav-item"><a href="/{{page.lang}}#contact-section" class="nav-link"><span style="color: black;">{{ site.data.snippets.section_contact[page.lang] }}</span></a></li>
+			  <li class="nav-item"><a href="{{ site.data.snippets.switch_lang_href[page.lang] }}/{{ site.data.snippets.privacy_policy_url_inverse[page.lang] }}" data-target="#home" class="nav-link"><span style="color: black;">{{ site.data.snippets.switch_lang[page.lang] }}</span></a></li>
 	        </ul>
 	      </div>
 	    </div>
@@ -56,7 +56,7 @@
 
     <br><br><br><br>
 
-	<section class="ftco-section ftco-no-pb ftco-no-pt ftco-services bg-light" id="expertise-section">
+	<section class="ftco-section ftco-no-pb ftco-no-pt ftco-services bg-light">
       <div class="container">
         <div class="row no-gutters">
 			<div class="col-lg-12 order-lg-1 mb-5 mb-lg-0">
@@ -239,6 +239,7 @@
                         <ul>
                         <li>By email: contact@mpsolution.ca</li>
                         </ul>
+                        <br><br>
 					</div>
 					<br>
 				</div>
@@ -272,7 +273,7 @@
 			<br><br>
 
             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-&copy; <script>document.write(new Date().getFullYear());</script> Mathieu Provencher | This template is made by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+&copy; <script>document.write(new Date().getFullYear());</script> Mathieu Provencher | This template is made by <a href="https://colorlib.com" target="_blank">Colorlib</a> | <a href="{{ site.data.snippets.privacy_policy_url[page.lang] }}">{{ site.data.snippets.privacy_policy[page.lang] }}</a>
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
           </div>
         </div>

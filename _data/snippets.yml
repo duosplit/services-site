@@ -233,3 +233,13 @@ expertise:
   continuous_improvement:
     en: Continuous Improvement
     fr: Amélioration continue
+
+privacy_policy:
+  en: Privacy policy
+  fr: Politique de vie privée
+privacy_policy_url:
+  en: privacy.html
+  fr: vie_privee.html
+privacy_policy_url_inverse:
+  en: vie_privee.html
+  fr: privacy.html
